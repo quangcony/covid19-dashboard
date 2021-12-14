@@ -1,6 +1,7 @@
 ### Covid19 Dashboard
 
-#### Cover by me. Source reference: https://www.youtube.com/watch?v=EoK2nIS1Zi4
+#### Cover by me. Source reference (video coding): https://www.youtube.com/watch?v=EoK2nIS1Zi4
+##### Author: Tuat Tran Anh
 
 #### Screenshot of the entire website
 
